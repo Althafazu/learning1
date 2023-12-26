@@ -8,4 +8,10 @@ the main target for 2024 is:
 - Learning MongoDB
 - Learning JavaScript
 - Learning ReactJS
-- Consisten programming every 3 minutes
+- Consisten programming every 3 minutes / 5 lines per day.
+- Make a 3d portfolio website
+- make a shopping website 
+- make a game website
+- Make a simple game using Unreal Engine
+- Make a simple game using Unity
+- Make a Hentai / Eroge / Doujinshi
